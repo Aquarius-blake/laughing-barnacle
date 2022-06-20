@@ -57,7 +57,7 @@ class _QuotesState extends State<Quotes> {
             Text(
               Quote.text,
               style: TextStyle(
-                fontSize: 20.0,
+                fontSize: 21.0,
                 color: Colors.black,
               ),
             ),
